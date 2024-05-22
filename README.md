@@ -12,7 +12,9 @@ Web accessibility means designing websites that everyone can use, regardless of 
 # Learning Resources
 
 ## Accessibility Guidelines
-
+- [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)
+- [Web Accessibility in Mind Checklist](https://webaim.org/standards/wcag/checklist)
+  
 ## Online Courses
 
 ### Free Courses
