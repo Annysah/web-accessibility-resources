@@ -9,32 +9,33 @@ Web accessibility means designing websites that everyone can use, regardless of 
 - **Legal compliance**: In many places, some laws and regulations require websites to be accessible to people with disabilities. Following accessibility guidelines can help you avoid legal issues.
 - **Ethical considerations**: Everyone deserves equal access to information online. By creating an accessible website, you're ensuring everyone has a chance to experience your content.
 
-## Learning Resources
+# Learning Resources
 
-### Accessibility Guidelines
+## Accessibility Guidelines
 
-### Online Courses
+## Online Courses
 
-#### Free Courses
+### Free Courses
 
-#### Paid Courses
+### Paid Courses
 
-### Articles
+## Articles
 
-### Blogs
+## Blogs
 
-### Books
+## Books
 
-### Youtube Channels
+## Youtube Channels
 
-### Certifications
+## Certifications
 
-### Tools
+## Tools
 
-### Organizations/Communities
+## Organizations/Communities
 
-### Handles that Talks about Accessibility 
+## Handles that Talks about Accessibility 
 
-### Conferences
+## Conferences
 
-### Job Boards
+## Job Boards
+- [A11Y Jobs](https://www.a11yjobs.com/)
