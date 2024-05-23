@@ -39,6 +39,7 @@ Web accessibility means designing websites that everyone can use, regardless of 
 ## Youtube Channels
 
 ## Certifications
+- [International Association of Accessibility Professionals (IAAP) Certification](https://www.accessibilityassociation.org/s/certification)
 
 ## Tools
 [Accessibility Bookmarklets](https://accessibility-bookmarklets.org/)
@@ -65,7 +66,14 @@ Web accessibility means designing websites that everyone can use, regardless of 
 
 ## Handles that Talk about Accessibility 
 
-## Conferences
+## Conferences/Events
+- [ACCESS](https://www.3playmedia.com/company/access-by-3play/)
+- [Accessibility Club Conference](https://accessibility.club/)
+- [Accessibility Summer Camp](https://www.accessibilityict.org/)
+- [Global Accessibility Awareness Day](https://accessibility.day/)
+- [ICT Accessibility Testing Symposium](https://www.ictaccessibilitytesting.org/)
+- [Inclusive Design 24](https://inclusivedesign24.org/2024/)
+- [WordPress Accessibility Day](https://wpaccessibility.day/)
 
 ## Job Boards
 - [A11Y Jobs](https://www.a11yjobs.com/)
