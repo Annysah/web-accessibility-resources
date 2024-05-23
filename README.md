@@ -27,6 +27,7 @@ Web accessibility means designing websites that everyone can use, regardless of 
 - [W3Cx: Introduction to Web Accessibility](https://www.edx.org/learn/web-accessibility/the-world-wide-web-consortium-w3c-introduction-to-web-accessibility)
 - [Web Accessibility Compliance](https://teamtreehouse.com/library/web-accessibility-compliance)
 - [Accessbility Fundamentals](https://learn.microsoft.com/en-us/training/paths/accessibility-fundamental/)
+- [Learn Accessibility](https://web.dev/learn/accessibility/)
 
 ## Articles
 
@@ -40,10 +41,29 @@ Web accessibility means designing websites that everyone can use, regardless of 
 ## Certifications
 
 ## Tools
+[Accessibility Bookmarklets](https://accessibility-bookmarklets.org/)
+[Accessibility Insights](https://accessibilityinsights.io/)
+[Axe Accessibility Testing Tool](https://deque.com/axe/)
+[Axe Core](https://github.com/dequelabs/axe-core)
+[ChromeLens](https://chromewebstore.google.com/detail/chromelens/idikgljglpfilbhaboonnpnnincjhjkd?hl=en)
+[Color contrast checker](https://webaim.org/resources/contrastchecker/)
+[Color Contrast Analyzer](https://dequeuniversity.com/color-contrast)
+[a11y.css](https://chromewebstore.google.com/detail/a11ycss/iolfinldndiiobhednboghogkiopppid?hl=ca)
+[Pa11y](https://pa11y.org/)
+[WAVE Evaluation Tool](https://wave.webaim.org/)
+
+## Assistive Technologies
+- [Android Accessibility Suite](https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback)
+- [Assitiv Labs](https://assistivlabs.com/)
+- [Job Access With Speech (JAWS)](https://www.freedomscientific.com/Products/software/JAWS/)
+- [NonVisual Desktop Access (NVDA)](https://www.nvaccess.org/)
+- [ChromeVox](https://support.google.com/chromebook/answer/7031755?hl=en)
+- [VoicOver](https://www.apple.com/accessibility/vision/)
+- [ZoomText](https://www.freedomscientific.com/products/software/zoomtext/)
 
 ## Organizations/Communities
 
-## Handles that Talks about Accessibility 
+## Handles that Talk about Accessibility 
 
 ## Conferences
 
