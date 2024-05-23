@@ -9,7 +9,7 @@ Web accessibility means designing websites that everyone can use, regardless of 
 - **Legal compliance**: In many places, some laws and regulations require websites to be accessible to people with disabilities. Following accessibility guidelines can help you avoid legal issues.
 - **Ethical considerations**: Everyone deserves equal access to information online. By creating an accessible website, you're ensuring everyone has a chance to experience your content.
 
-# Learning Resources
+# Learning Resourcess
 
 ## Accessibility Guidelines
 - [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)
@@ -31,11 +31,16 @@ Web accessibility means designing websites that everyone can use, regardless of 
 - [W3Cx: Introduction to Web Accessibility](https://www.edx.org/learn/web-accessibility/the-world-wide-web-consortium-w3c-introduction-to-web-accessibility)
 
 ## Articles
+- [Evaluating the accessibility of public health websites: An exploratory cross-country study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7838847/)
+- [Inclusive Design: Web Accessibility for Nonprofits](https://www.macfound.org/about/how-we-work/diversity-equity-inclusion/inclusive-design/call-to-action)
+- [Smashing Magazine Accessibility Articles](https://www.smashingmagazine.com/category/accessibility/)
 - [Understanding The Importance Of Web Accessibility](https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/understanding-the-importance-of-web-accessibility/?sh=439f1b65377f)
-- 
+- [Web Accessibility: The Ultimate Guide](https://blog.hubspot.com/website/web-accessibility)
+- [WebAIM Articles](https://webaim.org/articles/)
 
 ## Blogs
 - [Accessibility made easy](https://www.accessibilityeasy.com/blog)
+- [A11y Collective Blog](https://www.a11y-collective.com/blog/)
 - [A11y matters](https://www.a11ymatters.com/)
 - [A11y with Lindsey](https://www.a11ywithlindsey.com/blog/)
 - [Carie Fisher's Blog](https://cariefisher.com/)
@@ -87,13 +92,15 @@ Web accessibility means designing websites that everyone can use, regardless of 
 
 ## Organizations/Communities
 - [The A11Y Project](https://www.a11yproject.com/)
-- 
+- [International Association of Accessibility Professionals](https://www.accessibilityassociation.org/s/)
+- [WebAIM Community Forum](https://webaim.org/community/)
+- [Web Accessibility Education Facebook Group](https://www.facebook.com/groups/webaccessibilityeducation/)
 
 
 ## X Handles that Talk about Accessibility 
 - [Ability Net](https://twitter.com/AbilityNet)
 - [Accessibility Awareness](https://twitter.com/A11yAwareness)
-- [Accessibility Speaking](https://twitter.com/AccessiblyS)
+- [Accessibly Speaking](https://twitter.com/AccessiblyS)
 - [Google Accessibility ](https://twitter.com/googleaccess)
 - [Margaux Joffe](https://twitter.com/MargauxJoffe)
 - [TPGinteractive](https://twitter.com/TPGinteractive)
