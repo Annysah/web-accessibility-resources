@@ -72,10 +72,10 @@ Web accessibility means designing websites that everyone can use, regardless of 
 - [Accessibility Insights](https://accessibilityinsights.io/)
 - [Axe Accessibility Testing Tool](https://deque.com/axe/)
 - [Axe Core](https://github.com/dequelabs/axe-core)
+- [a11y.css](https://chromewebstore.google.com/detail/a11ycss/iolfinldndiiobhednboghogkiopppid?hl=ca)
 - [ChromeLens](https://chromewebstore.google.com/detail/chromelens/idikgljglpfilbhaboonnpnnincjhjkd?hl=en)
 - [Color contrast checker](https://webaim.org/resources/contrastchecker/)
 - [Color Contrast Analyzer](https://dequeuniversity.com/color-contrast)
-- [a11y.css](https://chromewebstore.google.com/detail/a11ycss/iolfinldndiiobhednboghogkiopppid?hl=ca)
 - [Pa11y](https://pa11y.org/)
 - [WAVE Evaluation Tool](https://wave.webaim.org/)
 
