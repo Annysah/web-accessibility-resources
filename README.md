@@ -1,7 +1,5 @@
 # What is Web Accessibility
-**Web accessibility ensures that people with disabilities can perceive, understand, navigate, and interact with the web, contributing to a more inclusive online experience.**
-
-Web accessibility means designing websites that everyone can use, regardless of their abilities. This might include people with visual impairments, hearing loss, mobility limitations, or cognitive differences.
+Web accessibility means designing websites that everyone can use, regardless of their abilities. This might include people with visual impairments, hearing loss, mobility limitations, or cognitive differences. It ensures that people with disabilities can perceive, understand, navigate, and interact with the web, contributing to a more inclusive online experience.
 
 # Why is Web Accessibility Important
 
