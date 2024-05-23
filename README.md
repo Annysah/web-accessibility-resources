@@ -48,16 +48,16 @@ Web accessibility means designing websites that everyone can use, regardless of 
 - [International Association of Accessibility Professionals (IAAP) Certification](https://www.accessibilityassociation.org/s/certification)
 
 ## Tools
-[Accessibility Bookmarklets](https://accessibility-bookmarklets.org/)
-[Accessibility Insights](https://accessibilityinsights.io/)
-[Axe Accessibility Testing Tool](https://deque.com/axe/)
-[Axe Core](https://github.com/dequelabs/axe-core)
-[ChromeLens](https://chromewebstore.google.com/detail/chromelens/idikgljglpfilbhaboonnpnnincjhjkd?hl=en)
-[Color contrast checker](https://webaim.org/resources/contrastchecker/)
-[Color Contrast Analyzer](https://dequeuniversity.com/color-contrast)
-[a11y.css](https://chromewebstore.google.com/detail/a11ycss/iolfinldndiiobhednboghogkiopppid?hl=ca)
-[Pa11y](https://pa11y.org/)
-[WAVE Evaluation Tool](https://wave.webaim.org/)
+- [Accessibility Bookmarklets](https://accessibility-bookmarklets.org/)
+- [Accessibility Insights](https://accessibilityinsights.io/)
+- [Axe Accessibility Testing Tool](https://deque.com/axe/)
+- [Axe Core](https://github.com/dequelabs/axe-core)
+- [ChromeLens](https://chromewebstore.google.com/detail/chromelens/idikgljglpfilbhaboonnpnnincjhjkd?hl=en)
+- [Color contrast checker](https://webaim.org/resources/contrastchecker/)
+- [Color Contrast Analyzer](https://dequeuniversity.com/color-contrast)
+- [a11y.css](https://chromewebstore.google.com/detail/a11ycss/iolfinldndiiobhednboghogkiopppid?hl=ca)
+- [Pa11y](https://pa11y.org/)
+- [WAVE Evaluation Tool](https://wave.webaim.org/)
 
 ## Assistive Technologies
 - [Android Accessibility Suite](https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback)
