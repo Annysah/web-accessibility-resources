@@ -79,7 +79,7 @@ Web accessibility means designing websites that everyone can use, regardless of 
 - [Pa11y](https://pa11y.org/)
 - [WAVE Evaluation Tool](https://wave.webaim.org/)
 
-## Assistive Technologies 👩‍🦯‍➡️🧑‍🦯
+## Assistive Technologies 📱
 - [Android Accessibility Suite](https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback)
 - [Assitiv Labs](https://assistivlabs.com/)
 - [Job Access With Speech (JAWS)](https://www.freedomscientific.com/Products/software/JAWS/)
