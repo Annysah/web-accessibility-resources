@@ -16,23 +16,35 @@ Web accessibility means designing websites that everyone can use, regardless of 
 - [Web Accessibility in Mind Checklist](https://webaim.org/standards/wcag/checklist)
   
 ## Online Courses
+- [Accessbility Fundamentals](https://learn.microsoft.com/en-us/training/paths/accessibility-fundamental/)
+- [Accessible Layout for the Web](https://www.linkedin.com/learning/accessible-layout-for-the-web/creating-accessible-web-layout-for-a-diverse-audience?u=125113850)
+- [An Introduction to Accessibility and Inclusive Design](https://www.coursera.org/learn/accessibility)
+- [Auditing React Apps for Accessibility](https://egghead.io/courses/auditing-react-apps-for-accessibility-08733265)
+- [Explore Accessibility (a11y) Best Practices](https://www.linkedin.com/learning/paths/explore-accessibility-a11y-best-practices?u=125113850)
+- [Get Started with Web Accessibility](https://trailhead.salesforce.com/content/learn/trails/get-started-with-web-accessibility)
 - [Google Web Accessibility - Udacity](https://www.udacity.com/course/web-accessibility--ud891)
 - [Introduction to Accessible Web Development](https://www.coursera.org/projects/introduction-to-accessible-web-development)
-- [Explore Accessibility (a11y) Best Practices](https://www.linkedin.com/learning/paths/explore-accessibility-a11y-best-practices?u=125113850)
-- [Accessible Layout for the Web](https://www.linkedin.com/learning/accessible-layout-for-the-web/creating-accessible-web-layout-for-a-diverse-audience?u=125113850)
-- [Test Accessibility of Your Design with WAVE](https://www.coursera.org/projects/test-accessibility-design-wave)
-- [An Introduction to Accessibility and Inclusive Design](https://www.coursera.org/learn/accessibility)
-- [Website Accessibility, v2](https://frontendmasters.com/courses/accessibility-v2/)
-- [Auditing React Apps for Accessibility](https://egghead.io/courses/auditing-react-apps-for-accessibility-08733265)
-- [W3Cx: Introduction to Web Accessibility](https://www.edx.org/learn/web-accessibility/the-world-wide-web-consortium-w3c-introduction-to-web-accessibility)
-- [Web Accessibility Compliance](https://teamtreehouse.com/library/web-accessibility-compliance)
-- [Accessbility Fundamentals](https://learn.microsoft.com/en-us/training/paths/accessibility-fundamental/)
 - [Learn Accessibility](https://web.dev/learn/accessibility/)
+- [Test Accessibility of Your Design with WAVE](https://www.coursera.org/projects/test-accessibility-design-wave)
+- [Web Accessibility Compliance](https://teamtreehouse.com/library/web-accessibility-compliance)
+- [Website Accessibility, v2](https://frontendmasters.com/courses/accessibility-v2/)
+- [W3Cx: Introduction to Web Accessibility](https://www.edx.org/learn/web-accessibility/the-world-wide-web-consortium-w3c-introduction-to-web-accessibility)
 
 ## Articles
-
+- [Understanding The Importance Of Web Accessibility](https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/understanding-the-importance-of-web-accessibility/?sh=439f1b65377f)
+- 
 
 ## Blogs
+- [Accessibility made easy](https://www.accessibilityeasy.com/blog)
+- [A11y matters](https://www.a11ymatters.com/)
+- [A11y with Lindsey](https://www.a11ywithlindsey.com/blog/)
+- [Carie Fisher's Blog](https://cariefisher.com/)
+- [Deque Blog](https://www.deque.com/blog/)
+- [Marcus's Blog](https://marcus.io/blog)
+- [Sara Soueidan's Blog](https://www.sarasoueidan.com/blog/)
+- [Scott O'Hara's Blog](https://www.scottohara.me/writing/)
+- [TPGi Business and Technical Blog](https://developer.paciellogroup.com/blog/)
+- [WebAIM Blog](https://webaim.org/blog/)
 
 ## Books
 - [Accessibility for Everyone](https://www.oreilly.com/library/view/accessibility-for-everyone/9781492017936/?_gl=1*3r09wr*_ga*NDk5OTkwMDk4LjE3MTY0Mjc0MTA.*_ga_092EL089CH*MTcxNjQyNzQwOS4xLjEuMTcxNjQyNzQ3Ny41OS4wLjA.)
@@ -41,8 +53,13 @@ Web accessibility means designing websites that everyone can use, regardless of 
 - [Inclusive Design for a Digital World: Designing with Accessibility in Mind](https://www.oreilly.com/library/view/inclusive-design-for/9781484250167/?_gl=1*p8m0au*_ga*NDk5OTkwMDk4LjE3MTY0Mjc0MTA.*_ga_092EL089CH*MTcxNjQyNzQwOS4xLjEuMTcxNjQyNzUyMS4xNS4wLjA.)
 - [Practical Web Accessibility: A Comprehensive Guide to Digital Inclusion](https://www.oreilly.com/library/view/practical-web-accessibility/9798868801525/?_gl=1*sqr9ju*_ga*NDk5OTkwMDk4LjE3MTY0Mjc0MTA.*_ga_092EL089CH*MTcxNjQyNzQwOS4xLjEuMTcxNjQyNzc0Mi41LjAuMA..)
 - [Web Accessibility Cookbook](https://www.oreilly.com/library/view/web-accessibility-cookbook/9781098145590/?_gl=1*klafp2*_ga*NDk5OTkwMDk4LjE3MTY0Mjc0MTA.*_ga_092EL089CH*MTcxNjQyNzQwOS4xLjEuMTcxNjQyNzY0My4zMi4wLjA.)
+- [Web and App Accessibility: Your Roadmap to Digital Inclusion](https://info.usablenet.com/web-and-app-accessibility)
 
 ## Youtube Channels
+- [Africa Kenyah](https://www.youtube.com/@africakenyah)
+- [Carrie on Accessibility](https://www.youtube.com/channel/UCraSGW8s4NMaFKrJ5YbjB4w)
+- [The Accessibility Guy](https://www.youtube.com/c/TheAccessibilityGuy)
+- [WebAIM Youtube Channel](https://www.youtube.com/channel/UCmlP2d_ApoIoAfEHiMQKLpw)
 
 ## Certifications
 - [International Association of Accessibility Professionals (IAAP) Certification](https://www.accessibilityassociation.org/s/certification)
@@ -69,9 +86,17 @@ Web accessibility means designing websites that everyone can use, regardless of 
 - [ZoomText](https://www.freedomscientific.com/products/software/zoomtext/)
 
 ## Organizations/Communities
+- [The A11Y Project](https://www.a11yproject.com/)
+- 
 
 
-## Handles that Talk about Accessibility 
+## X Handles that Talk about Accessibility 
+- [Ability Net](https://twitter.com/AbilityNet)
+- [Accessibility Awareness](https://twitter.com/A11yAwareness)
+- [Accessibility Speaking](https://twitter.com/AccessiblyS)
+- [Google Accessibility ](https://twitter.com/googleaccess)
+- [Margaux Joffe](https://twitter.com/MargauxJoffe)
+- [TPGinteractive](https://twitter.com/TPGinteractive)
 
 ## Conferences/Events
 - [ACCESS](https://www.3playmedia.com/company/access-by-3play/)
