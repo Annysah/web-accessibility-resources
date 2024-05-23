@@ -35,6 +35,12 @@ Web accessibility means designing websites that everyone can use, regardless of 
 ## Blogs
 
 ## Books
+- [Accessibility for Everyone](https://www.oreilly.com/library/view/accessibility-for-everyone/9781492017936/?_gl=1*3r09wr*_ga*NDk5OTkwMDk4LjE3MTY0Mjc0MTA.*_ga_092EL089CH*MTcxNjQyNzQwOS4xLjEuMTcxNjQyNzQ3Ny41OS4wLjA.)
+- [Accessibility Handbook](https://www.oreilly.com/library/view/accessibility-handbook/9781449322847/?_gl=1*10gxjk8*_ga*NDk5OTkwMDk4LjE3MTY0Mjc0MTA.*_ga_092EL089CH*MTcxNjQyNzQwOS4xLjEuMTcxNjQyNzY4Ny42MC4wLjA.)
+- [Approachable Accessibility: Planning for Success](https://www.oreilly.com/library/view/approachable-accessibility-planning/9781484248812/?_gl=1*1f41x7p*_ga*NDk5OTkwMDk4LjE3MTY0Mjc0MTA.*_ga_092EL089CH*MTcxNjQyNzQwOS4xLjEuMTcxNjQyNzU1OS4zNy4wLjA.)
+- [Inclusive Design for a Digital World: Designing with Accessibility in Mind](https://www.oreilly.com/library/view/inclusive-design-for/9781484250167/?_gl=1*p8m0au*_ga*NDk5OTkwMDk4LjE3MTY0Mjc0MTA.*_ga_092EL089CH*MTcxNjQyNzQwOS4xLjEuMTcxNjQyNzUyMS4xNS4wLjA.)
+- [Practical Web Accessibility: A Comprehensive Guide to Digital Inclusion](https://www.oreilly.com/library/view/practical-web-accessibility/9798868801525/?_gl=1*sqr9ju*_ga*NDk5OTkwMDk4LjE3MTY0Mjc0MTA.*_ga_092EL089CH*MTcxNjQyNzQwOS4xLjEuMTcxNjQyNzc0Mi41LjAuMA..)
+- [Web Accessibility Cookbook](https://www.oreilly.com/library/view/web-accessibility-cookbook/9781098145590/?_gl=1*klafp2*_ga*NDk5OTkwMDk4LjE3MTY0Mjc0MTA.*_ga_092EL089CH*MTcxNjQyNzQwOS4xLjEuMTcxNjQyNzY0My4zMi4wLjA.)
 
 ## Youtube Channels
 
