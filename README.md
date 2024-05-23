@@ -7,13 +7,13 @@ Web accessibility means designing websites that everyone can use, regardless of 
 - **Legal compliance**: In many places, some laws and regulations require websites to be accessible to people with disabilities. Following accessibility guidelines can help you avoid legal issues.
 - **Ethical considerations**: Everyone deserves equal access to information online. By creating an accessible website, you're ensuring everyone has a chance to experience your content.
 
-# Learning Resourcess
+# Learning Resources
 
-## Accessibility Guidelines
+## Accessibility Guidelines 📝
 - [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)
 - [Web Accessibility in Mind Checklist](https://webaim.org/standards/wcag/checklist)
   
-## Online Courses
+## Online Courses 💻
 - [Accessbility Fundamentals](https://learn.microsoft.com/en-us/training/paths/accessibility-fundamental/)
 - [Accessible Layout for the Web](https://www.linkedin.com/learning/accessible-layout-for-the-web/creating-accessible-web-layout-for-a-diverse-audience?u=125113850)
 - [An Introduction to Accessibility and Inclusive Design](https://www.coursera.org/learn/accessibility)
@@ -28,7 +28,7 @@ Web accessibility means designing websites that everyone can use, regardless of 
 - [Website Accessibility, v2](https://frontendmasters.com/courses/accessibility-v2/)
 - [W3Cx: Introduction to Web Accessibility](https://www.edx.org/learn/web-accessibility/the-world-wide-web-consortium-w3c-introduction-to-web-accessibility)
 
-## Articles
+## Articles 📃
 - [Evaluating the accessibility of public health websites: An exploratory cross-country study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7838847/)
 - [Inclusive Design: Web Accessibility for Nonprofits](https://www.macfound.org/about/how-we-work/diversity-equity-inclusion/inclusive-design/call-to-action)
 - [Smashing Magazine Accessibility Articles](https://www.smashingmagazine.com/category/accessibility/)
@@ -36,7 +36,7 @@ Web accessibility means designing websites that everyone can use, regardless of 
 - [Web Accessibility: The Ultimate Guide](https://blog.hubspot.com/website/web-accessibility)
 - [WebAIM Articles](https://webaim.org/articles/)
 
-## Blogs
+## Blogs 📌
 - [Accessibility made easy](https://www.accessibilityeasy.com/blog)
 - [A11y Collective Blog](https://www.a11y-collective.com/blog/)
 - [A11y matters](https://www.a11ymatters.com/)
@@ -49,7 +49,7 @@ Web accessibility means designing websites that everyone can use, regardless of 
 - [TPGi Business and Technical Blog](https://developer.paciellogroup.com/blog/)
 - [WebAIM Blog](https://webaim.org/blog/)
 
-## Books
+## Books 📚
 - [Accessibility for Everyone](https://www.oreilly.com/library/view/accessibility-for-everyone/9781492017936/?_gl=1*3r09wr*_ga*NDk5OTkwMDk4LjE3MTY0Mjc0MTA.*_ga_092EL089CH*MTcxNjQyNzQwOS4xLjEuMTcxNjQyNzQ3Ny41OS4wLjA.)
 - [Accessibility Handbook](https://www.oreilly.com/library/view/accessibility-handbook/9781449322847/?_gl=1*10gxjk8*_ga*NDk5OTkwMDk4LjE3MTY0Mjc0MTA.*_ga_092EL089CH*MTcxNjQyNzQwOS4xLjEuMTcxNjQyNzY4Ny42MC4wLjA.)
 - [Approachable Accessibility: Planning for Success](https://www.oreilly.com/library/view/approachable-accessibility-planning/9781484248812/?_gl=1*1f41x7p*_ga*NDk5OTkwMDk4LjE3MTY0Mjc0MTA.*_ga_092EL089CH*MTcxNjQyNzQwOS4xLjEuMTcxNjQyNzU1OS4zNy4wLjA.)
@@ -58,16 +58,16 @@ Web accessibility means designing websites that everyone can use, regardless of 
 - [Web Accessibility Cookbook](https://www.oreilly.com/library/view/web-accessibility-cookbook/9781098145590/?_gl=1*klafp2*_ga*NDk5OTkwMDk4LjE3MTY0Mjc0MTA.*_ga_092EL089CH*MTcxNjQyNzQwOS4xLjEuMTcxNjQyNzY0My4zMi4wLjA.)
 - [Web and App Accessibility: Your Roadmap to Digital Inclusion](https://info.usablenet.com/web-and-app-accessibility)
 
-## Youtube Channels
+## Youtube Channels 📹
 - [Africa Kenyah](https://www.youtube.com/@africakenyah)
 - [Carrie on Accessibility](https://www.youtube.com/channel/UCraSGW8s4NMaFKrJ5YbjB4w)
 - [The Accessibility Guy](https://www.youtube.com/c/TheAccessibilityGuy)
 - [WebAIM Youtube Channel](https://www.youtube.com/channel/UCmlP2d_ApoIoAfEHiMQKLpw)
 
-## Certifications
+## Certifications 🧑‍🎓
 - [International Association of Accessibility Professionals (IAAP) Certification](https://www.accessibilityassociation.org/s/certification)
 
-## Tools
+## Tools 🛠️
 - [Accessibility Bookmarklets](https://accessibility-bookmarklets.org/)
 - [Accessibility Insights](https://accessibilityinsights.io/)
 - [Axe Accessibility Testing Tool](https://deque.com/axe/)
@@ -79,7 +79,7 @@ Web accessibility means designing websites that everyone can use, regardless of 
 - [Pa11y](https://pa11y.org/)
 - [WAVE Evaluation Tool](https://wave.webaim.org/)
 
-## Assistive Technologies
+## Assistive Technologies 👩‍🦯‍➡️🧑‍🦯
 - [Android Accessibility Suite](https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback)
 - [Assitiv Labs](https://assistivlabs.com/)
 - [Job Access With Speech (JAWS)](https://www.freedomscientific.com/Products/software/JAWS/)
@@ -88,14 +88,14 @@ Web accessibility means designing websites that everyone can use, regardless of 
 - [VoicOver](https://www.apple.com/accessibility/vision/)
 - [ZoomText](https://www.freedomscientific.com/products/software/zoomtext/)
 
-## Organizations/Communities
+## Organizations/Communities 👥
 - [The A11Y Project](https://www.a11yproject.com/)
 - [International Association of Accessibility Professionals](https://www.accessibilityassociation.org/s/)
 - [WebAIM Community Forum](https://webaim.org/community/)
 - [Web Accessibility Education Facebook Group](https://www.facebook.com/groups/webaccessibilityeducation/)
 
 
-## X Handles that Talk about Accessibility 
+## X Handles that Talk about Accessibility 🔗
 - [Ability Net](https://twitter.com/AbilityNet)
 - [Accessibility Awareness](https://twitter.com/A11yAwareness)
 - [Accessibly Speaking](https://twitter.com/AccessiblyS)
@@ -103,7 +103,7 @@ Web accessibility means designing websites that everyone can use, regardless of 
 - [Margaux Joffe](https://twitter.com/MargauxJoffe)
 - [TPGinteractive](https://twitter.com/TPGinteractive)
 
-## Conferences/Events
+## Conferences/Events 🗓️
 - [ACCESS](https://www.3playmedia.com/company/access-by-3play/)
 - [Accessibility Club Conference](https://accessibility.club/)
 - [Accessibility Summer Camp](https://www.accessibilityict.org/)
@@ -114,5 +114,5 @@ Web accessibility means designing websites that everyone can use, regardless of 
 - [TechAccess Oklahoma Conference](https://techaccessok.org/)
 - [WordPress Accessibility Day](https://wpaccessibility.day/)
 
-## Job Boards
+## Job Boards 💼
 - [A11Y Jobs](https://www.a11yjobs.com/)
