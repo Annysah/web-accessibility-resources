@@ -64,7 +64,7 @@ Web accessibility means designing websites that everyone can use, regardless of 
 - [The Accessibility Guy](https://www.youtube.com/c/TheAccessibilityGuy)
 - [WebAIM Youtube Channel](https://www.youtube.com/channel/UCmlP2d_ApoIoAfEHiMQKLpw)
 
-## Certifications 🧑‍🎓
+## Certifications 🎓
 - [International Association of Accessibility Professionals (IAAP) Certification](https://www.accessibilityassociation.org/s/certification)
 
 ## Tools 🛠️
