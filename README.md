@@ -35,6 +35,7 @@ Web accessibility means designing websites that everyone can use, regardless of 
 - [Understanding The Importance Of Web Accessibility](https://www.forbes.com/sites/forbesbusinesscouncil/2023/03/20/understanding-the-importance-of-web-accessibility/?sh=439f1b65377f)
 - [Web Accessibility: The Ultimate Guide](https://blog.hubspot.com/website/web-accessibility)
 - [WebAIM Articles](https://webaim.org/articles/)
+- [Digital Accessibility within Computational Media](https://medium.com/processing-foundation/digital-accessibility-within-computational-media-a4e8ec3239a0)
 
 ## Blogs 📌
 - [Accessibility made easy](https://www.accessibilityeasy.com/blog)
